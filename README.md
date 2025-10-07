@@ -1,1 +1,1 @@
-For PPT[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWRCOExWeG12NjVuRzc4SFA0NjFZbVFlX1RJZ3xBQ3Jtc0trbWd0TzdFa3JFRUl1bVUtT3F5SE1hc1Q1aVlUMVpqR1ZJdHlyNmNCNjdqQ1BXMFhVNlZUZFNGeV80Ri1adjF3WnhpSmxZaFJFWjAtSUpPcU5FeU1LejhTamxSRXpwWmZwUWpaRkszeWFGMmhvQklWbw&q=https%3A%2F%2Fprojects.100xdevs.com%2Ftracks%2Frust-bootcamp%2FRust-Bootcamp-1&v=qP7LzZqGh30]
+For [PPT](https://projects.100xdevs.com/tracks/rust-bootcamp/Rust-Bootcamp-1)
